@@ -1,0 +1,289 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*banner start*/
+.b-cont{
+    width: 323px;
+}
+.s-text {
+    padding: 112px 0;
+}
+.s-text h1 {
+    font-size: 33px;
+}
+.s-text p {
+    font-size: 16px;
+}
+.d-content {
+    margin-top: 57px;
+}
+.mid h1 {
+    font-size: 33px;
+}
+.u-feature h2 {
+    font-size: 34px;
+}
+.cd h2 {
+    font-size: 33px;
+}
+.card1 h1 {
+    font-size: 50px;
+}
+.card1 a {
+    padding: 5px 9px;
+}
+/*banner end*/
+.ques {
+    padding: 0;
+}
+.meet {
+    padding: 30px 8px;
+}
+.ques h2 {
+    font-size: 30px;
+}
+.c-content h2 {
+    font-size: 32px;
+}
+.cd h2 {
+    font-size: 30px;
+}
+.dl2 h1 {
+    font-size: 36px;
+}
+.design h2 {
+    font-size: 30px;
+}
+.card1 h1 {
+    font-size: 50px;
+}
+.card1 p {
+    padding: 0;
+}
+.footer {
+    padding: 55px;
+}
+.menu4 {
+    margin-top: 34px;
+}
+.menu3 li a{
+	padding: 0;
+}
+.menu4{
+	margin-top: 44px;
+}
+.menu4 li i {
+	font-size: 18px;
+    padding: 0;
+}
+.choose {
+    padding: 59px;
+}
+.custom {
+    margin: 15px 0 20px -13px;
+}
+.meet h2 {
+    font-size: 33px;
+}
+.meet h5 {
+    font-size: 19px;
+}
+.c-prev {
+    left: 288px !important;
+}
+.b-cont {
+    margin-left: 0;
+}
+.cp{
+    margin-top: 40px;
+    display: block;
+}
+.content {
+    padding: 0;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start*/
+.s-text {
+    padding: 74px 0;
+}
+
+
+/*banner end*/
+.d-content {
+    margin-top: 57px;
+}
+.cd h2 {
+    font-size: 34px;
+}
+.meet {
+    padding: 30px 8px;
+}
+.ques h2 {
+    font-size: 36px;
+}
+.dl2 h1 {
+    font-size: 44px;
+}
+.cd h2 {
+    font-size: 30px;
+}
+
+.menu3 li a {
+    padding: 0;
+}
+.ques {
+    padding: 0;
+}
+.c-content h2 {
+    font-size: 23px;
+}
+.choose {
+    padding: 59px;
+}
+.custom {
+    margin: 20px 0 20px 15px;
+}
+.dl2 h1 {
+    font-size: 36px;
+}
+.c-prev {
+    left: 378px !important;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner start*/
+.s-text {
+    padding: 174px 0;
+}
+.s-text h1 {
+    font-size: 50px;
+}
+.s-text p {
+    font-size: 16px;
+}
+/*banner end*/
+.d-content {
+    margin-top: 100px;
+}
+.c-content h2 {
+    font-size: 32px;
+}
+.u-feature h2 {
+    font-size: 33px;
+}
+.cd h2 {
+    font-size: 34px;
+}
+.cd p {
+    font-size: 15px;
+    font-weight: 400;
+}
+.cp li a {
+    padding: 26px 40px;
+}
+.menu3 {
+    margin-top: 45px;
+    /* text-align: center; */
+}
+.ques {
+    padding: 40px 0;
+}
+.meet {
+    padding: 0 20px;
+}
+.fp {
+    margin-top: 82px;
+}
+.f-img img {
+    margin-top: 100px;
+}
+.m-img {
+    /* width: 110%; */
+    margin-top: 50px;
+}
+.meet h2 {
+    font-size: 35px;
+    margin-top: 55px;
+}
+.cyan {
+    padding: 10px 0;
+}
+.ques h2 {
+    font-size: 39px;
+}
+.dl2 h1 {
+    font-size: 42px;
+}
+.menu4 li i {
+	padding: 0;
+}
+.footer {
+	padding: 50px;
+}
+.menu3 li a {
+	 padding: 0;
+}
+.custom {
+    margin: 20px 0 20px 130px;
+}
+.c-prev {
+    left: 577px !important;
+}
+.b1{
+	width: 25%;
+}
+.mid h1 {
+    font-size: 30px;
+}
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.s-text h1 {
+    font-size: 55px;
+}
+.s-img {
+    margin-right: 0;
+    margin-top: 27px;
+    padding-left: 4px;
+}
+.cp li a {
+    padding: 30px 26px;
+}
+.d-content {
+    margin-top: 62px;
+}
+.custom {
+    margin: 20px 0 20px 27px;
+}
+.c-prev {
+    left: 455px;
+}
+}
+
+/*Extraa Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.f-img {
+    margin-top: 117px;
+    }
+}
+.m-img {
+    margin-top: 0;
+}
+.m-img {
+    /* width: 110%; */
+    margin-top: 81px;
+}
+.c-prev {
+    left: 467px;
+}
+}
+
+/*Extra extraa large devices (extraa large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}

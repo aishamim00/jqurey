@@ -1,0 +1,24 @@
+.count{
+	text-align: center;
+}
+.box{
+	width: 100%;
+	min-height: 300px;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+.box2{
+  height: 300px;
+  background-color: pink;
+}
